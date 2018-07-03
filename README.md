@@ -22,7 +22,7 @@ pod 'WhistleAlert'
 
 ## Author
 
-redleesg@gmail.com, sungil.lee@conbus.net
+redleesg.bp@gmail.com
 
 ## License
 
