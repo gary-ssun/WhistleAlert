@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WhistleAlert_Tests' do
+  pod 'WhistleAlert', :path => '../'
+  
+  
+end
